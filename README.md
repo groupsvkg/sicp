@@ -22,3 +22,11 @@
   - constructed
   - replaced
   - debugged
+
+## Programming in Lisp
+- Characterstics
+  - Model of computation - **_recursive equations_**
+  - **_Symbol manipulating capabilites_** for attacking programming problems i.e. symbolic differentiation and integration of algebric expression.
+  - Data objects - **_atoms_** and **_lists_**
+  - Second oldest language(only Fortran is older)
+  - Lisp **_procedure_** can themselves be represented and manupulated as **_Lisp data_**.
