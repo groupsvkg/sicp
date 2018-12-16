@@ -48,3 +48,22 @@
 Example:
 (define (square x) (* x x))
 ```
+
+## Substitution Model
+- **_normal-order evaluation_** fully expand and then reduce
+- **_applicative-order evaluation_** evaluate the arguments and then apply
+
+## Conditional Expression and Predicates
+```
+(cond (<p1> <e1>)
+      (<p2> <e2>)
+      .
+      .
+      .
+      (<pn> <en>))
+
+(<p> <e>) == clause
+ <p> == predicate
+ <e> == consequent expression
+```
+
