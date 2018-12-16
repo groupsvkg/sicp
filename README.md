@@ -8,9 +8,8 @@
 - The third is separating them from all other ideas that accompany them in their real existence: this is called **_abstraction_**, and thus all its general ideas are made.
 
 ## Definitions
-**_Computational process_**: Abstracts beings that inhabit computers
-
-**_Progarm_**: Pattern of rules
+- **_Computational process_**: Abstracts beings that inhabit computers
+- **_Progarm_**: Pattern of rules
 
 ## Master software engineer
 - Ability to **_organize programs_** for intended results
