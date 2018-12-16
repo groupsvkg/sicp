@@ -44,6 +44,7 @@
 ## Compound Procedures
 ```
 (define (<name> <formal parameters>) <body>)
+
 Example:
 (define (square x) (* x x))
 ```
