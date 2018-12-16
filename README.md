@@ -9,6 +9,7 @@
 
 ## Definitions
 **_Computational process_**: Abstracts beings that inhabit computers
+
 **_Progarm_**: Pattern of rules
 
 ## Master software engineer
