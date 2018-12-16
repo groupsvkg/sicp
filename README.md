@@ -30,3 +30,13 @@
   - Data objects - **_atoms_** and **_lists_**
   - Second oldest language(only Fortran is older)
   - Lisp **_procedure_** can themselves be represented and manupulated as **_Lisp data_**.
+
+## The Elements of Programming
+- **_primitive expressions_**, which represent the simplest entities the language is concerned with
+- **_means of combination_**, by which compound elements are built from simpler ones
+- **_means of abstraction_**, by which compound elements can be named and manipulated as units.
+
+## Powerful programming language should be able to describe
+- **_primitive data_**
+- **_primitive procedure_**
+- **_combining and abstracting_** procedures and data
