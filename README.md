@@ -40,3 +40,10 @@
 - **_primitive data_**
 - **_primitive procedure_**
 - **_combining and abstracting_** procedures and data
+
+## Compound Procedures
+```
+(define (<name> <formal parameters>) <body>)
+Example:
+(define (square x) (* x x))
+```
