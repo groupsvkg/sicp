@@ -1,5 +1,7 @@
-# sicp - Structure and Interpretation of Computer Programs
+# SICP - Structure and Interpretation of Computer Programs
+
 # Building Abstractions with Procedures
+
 ## How ideas are made
 - Combining several **_simple ideas_** into one compound one, and thus all **_complex ideas_** are made.
 - The second is bringing two ideas, whether simple or complex, together, and setting them by one another so as to take a view of them at once, without uniting them into one, by which it gets all its **_ideas of relations_**.
