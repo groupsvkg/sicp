@@ -75,3 +75,11 @@ Example:
 
 ## Procedures and the Processes They Generate
 - The ability to **_visualize the consequences of the actions_** under consideration is crucial to becoming an expert programmer
+- **_Deferred operation_**: **_expansion_** caused by process build up.
+- **_Recursive process_**: type of process where **_expansion_** occurs by a chain of **_deferred operations_** followed by **_contraction_** as the operations are actually performed.
+- **_Linear recursive process_**: A computation where the length of the chain of deffered operations, and hence the **_amount of information_** needed to keep track of it, **_grows linearly_**.
+- **_Iterative process_**: process whose state can be summarized by a **_fixed number of state variables_**, together with a fixed rule that describes how the state variables should be updated as the **_process moves from state to state_** and an(optional) end test that specifies conditions usder which the process should terminate.
+- **_Contrast Iterative Vs Recursive_**: 
+  - In iterative case: the program variables provide a complete description of the state of the process at any point.
+  - Iterative process can be **_stopped_** between steps and **_resumed_** with the value of the **_state variables_**.
+- **_Tail recursive_**: An implementation which executes an iterative process in **_constant space_**, even if the iterative process is described by a recursive procedure.
