@@ -66,4 +66,12 @@ Example:
  <p> == predicate
  <e> == consequent expression
 ```
+## Procedure as Black-Box Abstractions
+- It is crucial that each procedure accomplishes an **_identifiable task_** that can be used as a module in defining other procedures.
+- A user should not need to know **_how_** the procedure is implemented in order to **_use_** it.
+- **_Bound variable_**: procedures formal parameters(Body of procedure as their **_scope_**)
+- **_Free variables_**: variables not bound(**_external to definition_**) i.e **_<, -, +, custom procedure_**...
+- **_Internal definitions and block structure_**: nesting of definitions is called **_block structure_**. it **_helps in organizing the construction of large programs_**.
 
+## Procedures and the Processes They Generate
+- The ability to **_visualize the consequences of the actions_** under consideration is crucial to becoming an expert programmer
