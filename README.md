@@ -83,3 +83,18 @@ Example:
   - In iterative case: the program variables provide a complete description of the state of the process at any point.
   - Iterative process can be **_stopped_** between steps and **_resumed_** with the value of the **_state variables_**.
 - **_Tail recursive_**: An implementation which executes an iterative process in **_constant space_**, even if the iterative process is described by a recursive procedure.
+
+## Tree Recursion
+- **_Counting Change_**: The number of ways to change amount a using n kinds of coin equals
+  - The number of ways to change amount a using all but the first king of coin, plus
+  - The number of ways to change amount a - d using all n kinds of coins, where d is the denomination of the first kind of coin.
+- **_Divide into two groups_**
+  - Those that do not use any of the first kind of coin, and
+  - Those that do
+- **_Degenerate Cases_**
+  - If a is exactly 0, we should count that as 1 way to make change.
+  - if a is less than 0, we should count that as 0 ways to make change.
+  - If n is 0, we should count that as 0 ways to make change.
+
+## Orders of Growth
+- In general there are a number of **_properties_** of the **_problem_** with respect to which it will be desirable to analyze a given process
